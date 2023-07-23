@@ -25,7 +25,7 @@ Notes: If you leave your virtual machine, your database may not be saved. You ca
 
 If you are saving your progress on freeCodeCamp.org, after getting all the tests to pass, follow the instructions above to save a dump of your database. Save the worldcup.sql file, as well as the final version of your insert_data.sh and queries.sh files, in a public repository and submit the URL to it on freeCodeCamp.org.
 
-Complete the tasks below: You should create a database named worldcup
+# Complete the tasks below: You should create a database named worldcup
 
 You should connect to your worldcup database and then create teams and games tables
 
